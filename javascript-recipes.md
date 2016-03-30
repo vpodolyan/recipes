@@ -6,7 +6,7 @@ Simplest way is to iterate an array in reverse to avoid extra index decrement
 var i = array.length;
 while (i--) {
   // do something;
-  array.length.slice(i, 1);
+  array.splice(i, 1);
 }
 ```
 [Source](http://stackoverflow.com/questions/9882284/looping-through-array-and-removing-items-without-breaking-for-loop)
