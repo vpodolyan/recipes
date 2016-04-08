@@ -1,4 +1,4 @@
-### How to loop throught array removing its elements
+### How to loop through array removing its elements
 
 Simplest way is to iterate an array in reverse to avoid extra index decrement
 
