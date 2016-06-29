@@ -34,3 +34,10 @@ var basketModule = (function() {
 }());
 ```
 ("Patterns For Large-Scale JavaScript Application Architecture", Addy Osmani)
+
+### Simple way to convert arguments to an array
+
+```javascript
+var args = [].slice.call(arguments);
+```
+[learn.javascript.ru](https://learn.javascript.ru/call-apply)
