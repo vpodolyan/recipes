@@ -41,3 +41,9 @@ var basketModule = (function() {
 var args = [].slice.call(arguments);
 ```
 [learn.javascript.ru](https://learn.javascript.ru/call-apply)
+
+### Timestamp validation
+
+```javascript
+new Date(timestamp) > 0
+```
