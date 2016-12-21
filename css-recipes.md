@@ -47,3 +47,7 @@ Another option
 ```
 
 From [Sitepoint Forums](https://www.sitepoint.com/community/t/how-to-center-a-position-fixed-header/37232/2)
+
+#Center a column using Bootstrap
+
+[Good explanation on StackOverflow with examples](http://stackoverflow.com/a/20358578/2302700)
